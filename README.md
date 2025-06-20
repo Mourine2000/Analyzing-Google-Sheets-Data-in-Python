@@ -7,3 +7,5 @@ Here, I use Python and a little bit of SQL to analyze google sheets data.
 * EDA- Exploring the dataset using visualization tool from pandas and plotly.
 * More EDA to analyze the sessions according to time.
 * Answers the question, which channel leads to most transactons per session.
+
+The data I used is also added in the repo.
